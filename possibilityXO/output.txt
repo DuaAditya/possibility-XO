@@ -1,0 +1,249 @@
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: $$$$The number of possibilities are: 16XXXX
+XXXO
+XXOX
+XXOO
+XOXX
+XOXO
+XOOX
+XOOO
+OXXX
+OXXO
+OXOX
+OXOO
+OOXX
+OOXO
+OOOX
+OOOO
+
+Program time taken: 16Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: $$$$The number of possibilities are: 16XXXX
+XXXO
+XXOX
+XXOO
+XOXX
+XOXO
+XOOX
+XOOO
+OXXX
+OXXO
+OXOX
+OXOO
+OOXX
+OOXO
+OOOX
+OOOO
+
+Program time taken: 20Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: $$$$The number of possibilities are: 16
+XXXX
+XXXO
+XXOX
+XXOO
+XOXX
+XOXO
+XOOX
+XOOO
+OXXX
+OXXO
+OXOX
+OXOO
+OOXX
+OOXO
+OOOX
+OOOO
+
+Program time taken: 15 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: $$$$
+The number of possibilities are: 16
+XXXX
+XXXO
+XXOX
+XXOO
+XOXX
+XOXO
+XOOX
+XOOO
+OXXX
+OXXO
+OXOX
+OXOO
+OOXX
+OOXO
+OOOX
+OOOO
+
+Program time taken: 25 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: XOXO$$XO$$$XOXO
+The number of possibilities are: 32
+XOXOXXXOXXXXOXO
+XOXOXXXOXXOXOXO
+XOXOXXXOXOXXOXO
+XOXOXXXOXOOXOXO
+XOXOXXXOOXXXOXO
+XOXOXXXOOXOXOXO
+XOXOXXXOOOXXOXO
+XOXOXXXOOOOXOXO
+XOXOXOXOXXXXOXO
+XOXOXOXOXXOXOXO
+XOXOXOXOXOXXOXO
+XOXOXOXOXOOXOXO
+XOXOXOXOOXXXOXO
+XOXOXOXOOXOXOXO
+XOXOXOXOOOXXOXO
+XOXOXOXOOOOXOXO
+XOXOOXXOXXXXOXO
+XOXOOXXOXXOXOXO
+XOXOOXXOXOXXOXO
+XOXOOXXOXOOXOXO
+XOXOOXXOOXXXOXO
+XOXOOXXOOXOXOXO
+XOXOOXXOOOXXOXO
+XOXOOXXOOOOXOXO
+XOXOOOXOXXXXOXO
+XOXOOOXOXXOXOXO
+XOXOOOXOXOXXOXO
+XOXOOOXOXOOXOXO
+XOXOOOXOOXXXOXO
+XOXOOOXOOXOXOXO
+XOXOOOXOOOXXOXO
+XOXOOOXOOOOXOXO
+
+Program time taken: 23 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: XOXOXO$$$
+The number of possibilities are: 8
+XOXOXOXXX
+XOXOXOXXO
+XOXOXOXOX
+XOXOXOXOO
+XOXOXOOXX
+XOXOXOOXO
+XOXOXOOOX
+XOXOXOOOO
+
+Program time taken: 12025 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: abcde$
+The number of possibilities are: 2
+abcdeX
+abcdeO
+
+Program time taken: 10787 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: abcd
+The number of possibilities are: 1
+abcd
+
+Program time taken: 4083 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: XOXO$
+The number of possibilities are: 2
+XOXOX
+XOXOO
+
+Program time taken: 203519 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: $$
+The number of possibilities are: 4
+XX
+XO
+OX
+OO
+
+Program time taken: 3568 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: $$
+The number of possibilities are: 4
+XX
+XO
+OX
+OO
+
+Program time taken: 812064 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: $$
+The number of possibilities are: 4
+XX
+XO
+OX
+OO
+
+Program time taken: 3866 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: $$
+The number of possibilities are: 4
+OO
+OX
+XO
+XX
+
+Program time taken: 2728 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: $$
+The number of possibilities are: 4
+OO
+OX
+XO
+XX
+
+Program time taken: 2900 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Given String: $$
+The number of possibilities are: 4
+OO
+OX
+XO
+XX
+
+Program time taken: 92096 Milli-Seconds
++++++++++++++++++++++++++++++++++++++++++++++
